@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProgrammerH01
-- 👀 I’m interested in game development and playing games.
+- 👀 I’m interested in neuroscience and computer science.
 - 🌱 I’m currently learning everything!
--  I’m looking to collaborate on my game.
+  
 
 
 <!---
